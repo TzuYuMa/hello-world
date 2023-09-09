@@ -5,3 +5,4 @@ Lab0 exercise
 1. Research Assistance
 2. Internship
 3. Present the project in one conference
+* git config --user.name "Arc I"
